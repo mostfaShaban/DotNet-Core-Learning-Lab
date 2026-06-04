@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cycle 43 .Net\\Group 06\\Ef Core\\Session 01\\Day01 Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF9C16B-3782-43CC-A743-8E989F8F27F7}|Demo\\Demo.csproj|d:\\cycle 43 .net\\group 06\\ef core\\session 01\\day01 solution\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF9C16B-3782-43CC-A743-8E989F8F27F7}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF9C16B-3782-43CC-A743-8E989F8F27F7}|Demo\\Demo.csproj|d:\\cycle 43 .net\\group 06\\ef core\\session 01\\day01 solution\\demo\\dbcontexts\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF9C16B-3782-43CC-A743-8E989F8F27F7}|Demo\\Demo.csproj|solutionrelative:demo\\dbcontexts\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF9C16B-3782-43CC-A743-8E989F8F27F7}|Demo\\Demo.csproj|d:\\cycle 43 .net\\group 06\\ef core\\session 01\\day01 solution\\demo\\data\\companydbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF9C16B-3782-43CC-A743-8E989F8F27F7}|Demo\\Demo.csproj|solutionrelative:demo\\data\\companydbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF9C16B-3782-43CC-A743-8E989F8F27F7}|Demo\\Demo.csproj|d:\\cycle 43 .net\\group 06\\ef core\\session 01\\day01 solution\\demo\\models\\employeedepartmentsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF9C16B-3782-43CC-A743-8E989F8F27F7}|Demo\\Demo.csproj|solutionrelative:demo\\models\\employeedepartmentsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompanyDbContextSeed.cs",
+              "DocumentMoniker": "D:\\Cycle 43 .Net\\Group 06\\Ef Core\\Session 01\\Day01 Solution\\Demo\\Data\\CompanyDbContextSeed.cs",
+              "RelativeDocumentMoniker": "Demo\\Data\\CompanyDbContextSeed.cs",
+              "ToolTip": "D:\\Cycle 43 .Net\\Group 06\\Ef Core\\Session 01\\Day01 Solution\\Demo\\Data\\CompanyDbContextSeed.cs",
+              "RelativeToolTip": "Demo\\Data\\CompanyDbContextSeed.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:28:26.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cycle 43 .Net\\Group 06\\Ef Core\\Session 01\\Day01 Solution\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "D:\\Cycle 43 .Net\\Group 06\\Ef Core\\Session 01\\Day01 Solution\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAADECAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:24:28.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyDbContext.cs",
+              "DocumentMoniker": "D:\\Cycle 43 .Net\\Group 06\\Ef Core\\Session 01\\Day01 Solution\\Demo\\DbContexts\\CompanyDbContext.cs",
+              "RelativeDocumentMoniker": "Demo\\DbContexts\\CompanyDbContext.cs",
+              "ToolTip": "D:\\Cycle 43 .Net\\Group 06\\Ef Core\\Session 01\\Day01 Solution\\Demo\\DbContexts\\CompanyDbContext.cs",
+              "RelativeToolTip": "Demo\\DbContexts\\CompanyDbContext.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAIkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:21:28.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDepartmentsView.cs",
+              "DocumentMoniker": "D:\\Cycle 43 .Net\\Group 06\\Ef Core\\Session 01\\Day01 Solution\\Demo\\Models\\EmployeeDepartmentsView.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\EmployeeDepartmentsView.cs",
+              "ToolTip": "D:\\Cycle 43 .Net\\Group 06\\Ef Core\\Session 01\\Day01 Solution\\Demo\\Models\\EmployeeDepartmentsView.cs",
+              "RelativeToolTip": "Demo\\Models\\EmployeeDepartmentsView.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:20:33.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
